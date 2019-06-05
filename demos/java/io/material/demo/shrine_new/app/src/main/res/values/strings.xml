@@ -1,0 +1,33 @@
+<resources>
+  <string name="app_name">shrine_new</string>
+  <string name="shrine_product_category">Best Gifts for Teen Girls</string>
+  <string name="shrine_product_description">
+    Leave the tunnel and the rain is fallin amazing things happen when you wait
+  </string>
+  <string name="shrine_product_added_message">Product was added to your cart.</string>
+
+  <string name="shrine_bottom_nav_favorites">Favorites</string>
+  <string name="shrine_bottom_nav_home">Home</string>
+  <string name="shrine_bottom_nav_cart">Cart</string>
+
+  <string name="shrine_icon_search_title">Search</string>
+  <string name="shrine_icon_filter_title">Filter</string>
+
+  <string-array name="product_quantities">
+    <item>Quantity 1</item>
+    <item>Quantity 2</item>
+    <item>Quantity 3</item>
+    <item>Quantity 4</item>
+  </string-array>
+
+  <string name="shrine_filter_page_title">Filters</string>
+  <string name="shrine_price_range_section_title">Price Range</string>
+  <string name="shrine_price_range_max">$1000+</string>
+  <string name="shrine_international_shipping">International Shipping</string>
+  <string name="shrine_personalized_feeds">Personalized Feeds</string>
+  <string name="shrine_item_type_section_title">Item Type</string>
+  <string name="shrine_item_type_women">Women</string>
+  <string name="shrine_item_type_men">Men</string>
+  <string name="shrine_item_type_girls">Girls</string>
+  <string name="shrine_item_type_boys">Boys</string>
+</resources>
